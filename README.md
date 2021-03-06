@@ -6,7 +6,7 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/4452371-Working-Hard">
+
 
 - 🔭 I’m currently working on **improving my skills.**
 
@@ -20,6 +20,7 @@
 
 - ⚡ Fun fact: **I love to draw doodles.**
 
+<img   align="right"  width="400" src="https://cdn.dribbble.com/users/1848694/screenshots/4452371/dribdesgindeskgif.gif">
 
 
 <h4 align="left">Connect with me:</h4>
