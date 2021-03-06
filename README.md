@@ -6,7 +6,7 @@
 
 
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/264642...​">
+<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/4452371-Working-Hard">
 
 - 🔭 I’m currently working on **improving my skills.**
 
