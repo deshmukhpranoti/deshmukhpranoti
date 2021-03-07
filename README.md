@@ -18,7 +18,7 @@
 - 📫 How to reach me: **pranotiddeshmukh24@gmail.com**
 
 - ⚡ Fun fact: **I love to draw doodles.**
-<img   style='position:absolute; top:50; right:50;' width='350' height='250' alt='Hard-Working logo'  src="https://cdn.dribbble.com/users/1848694/screenshots/4452371/dribdesgindeskgif.gif">
+<img   style='position:absolute; top:50%; right:100%;' width='350' height='250' alt='Hard-Working logo'  src="https://cdn.dribbble.com/users/1848694/screenshots/4452371/dribdesgindeskgif.gif">
 
 
 <h4 align="left">Connect with me:</h4>
