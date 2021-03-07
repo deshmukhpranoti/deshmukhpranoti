@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **pranotiddeshmukh24@gmail.com**
 
-- ⚡ Fun fact: **I love to draw doodles and I have curly hair** 🤣
+- ⚡ Fun fact: **I love to draw doodles and I have curly hair** 
 
 <img  align="right" width='350' alt='Hard-Working logo'  src="https://cdn.dribbble.com/users/1848694/screenshots/4452371/dribdesgindeskgif.gif">
 
