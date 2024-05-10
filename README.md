@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on **improving my skills.**
 - 🌱 I’m currently learning **Machine Learning in Python.**
-- 🎓 **I'm Pursuing B.E degree in Electronics and telecommunication.**
-- 🥅 2021 Goals: **Contribute to open source projects.**
+- 🎓 **I'm currently working as data analyst.**
+- 🥅 2024 Goals: **Contribute to open source projects.**
 - 📫 How to reach me: **pranotiddeshmukh24@gmail.com**
 - ⚡ Fun fact: **I love to draw doodles and I have curly hair.** 
 <img  align="right" width='350' alt='Hard-Working logo'  src="https://cdn.dribbble.com/users/1848694/screenshots/4452371/dribdesgindeskgif.gif">
